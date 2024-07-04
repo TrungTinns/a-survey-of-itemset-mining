@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FPGrowthAlgorithm/1.0.0": {
+        "dependencies": {
+          "EclatAlgorithm": "1.0.0"
+        },
+        "runtime": {
+          "FPGrowthAlgorithm.dll": {}
+        }
+      },
+      "AprioriAlgorithm/1.0.0": {
+        "runtime": {
+          "AprioriAlgorithm.dll": {}
+        }
+      },
+      "EclatAlgorithm/1.0.0": {
+        "dependencies": {
+          "AprioriAlgorithm": "1.0.0"
+        },
+        "runtime": {
+          "EclatAlgorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FPGrowthAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AprioriAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EclatAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

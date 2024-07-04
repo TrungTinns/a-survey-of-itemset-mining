@@ -1,0 +1,15 @@
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\bin\Debug\net6.0\AprioriTIDAlgorithmVer2.exe
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\bin\Debug\net6.0\AprioriTIDAlgorithmVer2.deps.json
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\bin\Debug\net6.0\AprioriTIDAlgorithmVer2.runtimeconfig.json
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\bin\Debug\net6.0\AprioriTIDAlgorithmVer2.dll
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\bin\Debug\net6.0\AprioriTIDAlgorithmVer2.pdb
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.csproj.AssemblyReference.cache
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.AssemblyInfoInputs.cache
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.AssemblyInfo.cs
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.csproj.CoreCompileInputs.cache
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.dll
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\refint\AprioriTIDAlgorithmVer2.dll
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.pdb
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\AprioriTIDAlgorithmVer2.genruntimeconfig.cache
+D:\Test\C#\Table5Algorithm\AprioriTIDAlgorithmVer2\obj\Debug\net6.0\ref\AprioriTIDAlgorithmVer2.dll
